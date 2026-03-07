@@ -83,17 +83,17 @@ React • REST APIs • PostgreSQL
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh-tya6i&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-tya6i&layout=compact&theme=tokyonight)
 
 ---
 
 # 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-GitHub: https://github.com/YOUR_USERNAME  
-Email: your@email.com
+LinkedIn: https://linkedin.com/in/rishabh-tya6i  
+GitHub: https://github.com/rishabh-tya6i  
+Email: tyagirishabh121@gmail.com
 
 ---
 
